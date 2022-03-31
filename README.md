@@ -1,6 +1,26 @@
-# Spring-Security
-Spring Boot with Spring Security
+# Spring Boot Security
 
+This repository is an example of how we can implement security with jwt tokens. Including refresh tokens and roles and securing each endpoint with a role.
 
-This repository is an example of how we can implement security with jwt tokens.
-Including refresh tokens and roles and securing each endpoint with a role.
+## Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+
+### Prerequisites
+
+* Java JDK 8
+
+### Installing
+
+* Clone repo
+* Import the project in any IDE
+
+### Build and Start the project
+
+* ./mvnw clean package
+* ./mvnw spring-boot:run
+
+## Built With
+
+* [Spring Boot](https://spring.io/projects/spring-boot)
+* [Maven](https://maven.apache.org/) - Dependency Management
