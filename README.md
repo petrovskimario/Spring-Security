@@ -9,11 +9,13 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 
 * Java JDK 11
+* MySQL
 
 ### Installing
 
 * Clone repo
 * Import the project in any IDE
+* Change application properties to your MySQL instance.
 
 ### Build and Start the project
 
